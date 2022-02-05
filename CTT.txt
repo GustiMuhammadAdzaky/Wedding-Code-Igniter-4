@@ -1,0 +1,20 @@
+LOGIN ADMIN
+admin.localhost/login ATAU admin.domain.com/login
+
+EMAIL: admin@admin.com
+PASSWORD: admin
+
+
+LOGIN USER
+localhost/login ATAU domain.com/login
+
+EMAIL: reydinda@gmail.com
+PASSWORD: reydinda
+
+
+NOTE:
+1. JIKA DI LOCALHOST
+Website menggunakan framework codeigniter 4, pastikan Anda sudah paham bagaimana menjalankan project codeigniter 4 di localhost, karna codeigniter 4 berbeda dengan codeigniter 3. Selengkapnya https://www.youtube.com/watch?v=WimdT2J-ckw
+
+2. JIKA DI HOSTING
+Anda bisa order hosting murah dengan diskon 20% di domainesia.com. Gunakan kode voucher: MYCODING saat checkout :)
